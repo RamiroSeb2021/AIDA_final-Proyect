@@ -12,7 +12,7 @@ Incluye limpieza y anonimización del dataset, fine-tuning con LoRA, carga del m
 
 ## Estructura del repositorio
 
-
+```
 PsyThera-LLM/
 │
 ├── .gitignore
@@ -29,7 +29,7 @@ PsyThera-LLM/
 ├── requirements.txt
 │
 └── README.md
-
+```
 
 ---
 
