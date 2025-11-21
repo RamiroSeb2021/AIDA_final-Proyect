@@ -95,10 +95,10 @@ Resultado final: psych_clean_final.csv.
 ## 6. Conversión a HuggingFace Dataset
 El dataset se transforma a formato HuggingFace e incorpora plantilla estilo instruct:
 
-
+```
 [USER] pregunta
 [THERAPIST] respuesta
-
+```
 
 ---
 ## 7. Tokenización
@@ -215,10 +215,10 @@ En síntesis, el proceso completa la transformación desde un checkpoint de PyTo
 ## 11. Interfaz CLI
 Se incluye función generadora de prompts:
 
-
+```
 [USER] <pregunta>
 [THERAPIST]
-
+```
 
 Y se habilita inferencia desde la línea de comandos con el modelo entrenado.
 
