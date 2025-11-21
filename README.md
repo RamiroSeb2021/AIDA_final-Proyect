@@ -221,7 +221,7 @@ Se incluye función generadora de prompts:
 ```
 
 ```{r, results='asis'}
-cat("
+
 ╔══════════════════════════════════════════════════════╗
 ║                 psych-therapist — CLI THERAPIST      ║
 ║         Fine-tuned Model using TinyLlama + Ollama    ║
@@ -243,7 +243,7 @@ and practical assistance during this difficult time. Good luck!
 ──────────────────────────────────────────────
 
 You ▶
-")
+```
 
 
 
