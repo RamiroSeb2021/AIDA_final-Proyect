@@ -220,6 +220,27 @@ Se incluye función generadora de prompts:
 [THERAPIST]
 ```
 
+::: {.terminal style="background:#1e1e1e; color:#e0e0e0; padding:20px; border-radius:8px; font-family: 'Fira Code', monospace;"}
+
+╔══════════════════════════════════════════════════════╗
+║                 **psych-therapist — CLI THERAPIST**  ║
+║         Fine-tuned Model using TinyLlama + Ollama    ║
+╚══════════════════════════════════════════════════════╝
+
+*Type 'exit' to quit.*
+
+**You ▶** i am to sad, what should do i ?  
+*psych-therapist is thinking...*
+
+**psych-therapist replies:**  
+You are to sad. You need to talk to a professional who can help you deal with your feelings. It may be helpful for you to go to see a counselor or therapist who specializes in helping individuals cope with the loss of a loved one. Individuals who have experienced the death of a close family member typically benefit from talking to someone who has been there too. The individual you should talk to is likely to be someone who is trained in grief counseling and may offer support, empathy, and practical assistance during this difficult time. Good luck!
+
+──────────────────────────────────────────────
+
+**You ▶**
+:::
+
+
 Y se habilita inferencia desde la línea de comandos con el modelo entrenado.
 
 ---
