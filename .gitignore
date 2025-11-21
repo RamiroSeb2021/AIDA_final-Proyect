@@ -1,0 +1,11 @@
+.venv/
+Copia_de_DLLM_FINPROJECT (1) - copia.ipynb
+data/
+download_model.py
+finetune_phi3_lora.py
+infer_lora.py
+psych_clean_final.csv
+psych_tinyllama-20251120T205831Z-1-001.zip
+psych_tinyllama/
+psych_tinyllama_L/
+requirements_2.txt
