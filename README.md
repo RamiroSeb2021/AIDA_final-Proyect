@@ -213,7 +213,7 @@ En síntesis, el proceso completa la transformación desde un checkpoint de PyTo
 ---
 
 ## 11. Interfaz CLI
-Se incluye función generadora de prompts:
+Se incluye función generadora de prompts, este es el documento `CLI_interface.py` que permite interactuar con el modelo desde la línea de comandos, este se debe de alojar en el directorio del mismo `ModelFile`.
 
 ```
 [USER] <pregunta>
@@ -262,7 +262,7 @@ Se evalúa el modelo usando 4 tipos de preguntas:
 - Control general
 
 Se genera archivo final:
-- evaluacion_hallucinations_model.csv
+- `hallucination_evaluation_model.csv`
 
 Cada fila contiene:
 - Tipo de pregunta
